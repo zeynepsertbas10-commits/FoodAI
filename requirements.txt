@@ -1,0 +1,12 @@
+streamlit
+torch
+torchvision
+numpy
+Pillow
+scikit-learn
+sentence-transformers
+transformers
+datasets
+nltk
+pandas
+pyarrow
