@@ -1,0 +1,125 @@
+
+{
+  "queries": [
+    {
+      "query": "pretzels, butter, cream cheese, strawberries",
+      "relevant_recipe_ids": [0]
+    },
+    {
+      "query": "green beans, tomato, garlic, oregano",
+      "relevant_recipe_ids": [1]
+    },
+    {
+      "query": "fruit cocktail, pineapple, bananas, vanilla pudding",
+      "relevant_recipe_ids": [2]
+    },
+    {
+      "query": "eggplant, onion, tomatoes, garlic, pasta",
+      "relevant_recipe_ids": [4]
+    },
+    {
+      "query": "bacon, potatoes, celery, onion, milk",
+      "relevant_recipe_ids": [5]
+    },
+    {
+      "query": "butter, sugar, vanilla, eggs, cocoa, flour",
+      "relevant_recipe_ids": [6]
+    },
+    {
+      "query": "powdered sugar, peanut butter, graham crackers",
+      "relevant_recipe_ids": [7]
+    },
+    {
+      "query": "pumpkin, eggs, cinnamon, ginger, nutmeg",
+      "relevant_recipe_ids": [8]
+    },
+    {
+      "query": "pork, beans, molasses, brown sugar, mustard",
+      "relevant_recipe_ids": [9]
+    },
+    {
+      "query": "pecans, butter, flour, confectioners sugar",
+      "relevant_recipe_ids": [10]
+    },
+    {
+      "query": "saltine crackers, chocolate, butter, walnuts",
+      "relevant_recipe_ids": [11]
+    },
+    {
+      "query": "tuna, swiss cheese, celery, green onions, mayonnaise",
+      "relevant_recipe_ids": [12]
+    },
+    {
+      "query": "milk, yeast, flour, sugar",
+      "relevant_recipe_ids": [13]
+    },
+    {
+      "query": "mixed nuts, cheerios, pretzels, garlic salt",
+      "relevant_recipe_ids": [14]
+    },
+    {
+      "query": "chocolate cake mix, cherry pie filling, eggs",
+      "relevant_recipe_ids": [15]
+    },
+    {
+      "query": "sugar, margarine, evaporated milk, coconut, pecans",
+      "relevant_recipe_ids": [16]
+    },
+    {
+      "query": "peanut butter, rice krispies, chocolate, margarine",
+      "relevant_recipe_ids": [17]
+    },
+    {
+      "query": "powdered sugar, cocoa, butter, vanilla, nuts",
+      "relevant_recipe_ids": [18]
+    },
+    {
+      "query": "bananas, orange juice, pineapple juice, ginger ale",
+      "relevant_recipe_ids": [19]
+    },
+    {
+      "query": "navy beans, ham, tomato paste, potatoes, celery",
+      "relevant_recipe_ids": [20]
+    },
+    {
+      "query": "pork and beans, ketchup, onion, brown sugar, mustard",
+      "relevant_recipe_ids": [21]
+    },
+    {
+      "query": "ground beef, onion, green beans, cornbread",
+      "relevant_recipe_ids": [22]
+    },
+    {
+      "query": "brown rice, butter, onion, garlic, egg, cheese, parsley",
+      "relevant_recipe_ids": [23]
+    },
+    {
+      "query": "bacon, cabbage, vinegar, sugar, noodles",
+      "relevant_recipe_ids": [24]
+    },
+    {
+      "query": "fish, rice, lemon juice, basil, tomato, peas",
+      "relevant_recipe_ids": [25]
+    },
+    {
+      "query": "corned beef, mixed vegetables, onion, eggs, mayonnaise",
+      "relevant_recipe_ids": [26]
+    },
+    {
+      "query": "sour cream, chili sauce, pickle relish, celery, egg",
+      "relevant_recipe_ids": [27]
+    },
+    {
+      "query": "peanut butter, sweetened milk, egg, vanilla",
+      "relevant_recipe_ids": [28]
+    },
+    {
+      "query": "sugar, eggs, flour, baking powder, banana",
+      "relevant_recipe_ids": [29]
+    },
+    {
+      "query": "chicken, rice, tomato, onion",
+      "relevant_recipe_ids": [43]
+    }
+  ]
+}
